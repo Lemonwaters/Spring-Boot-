@@ -4,3 +4,5 @@
 spring-boot-quickstart
 
 ## 2.Spring Boot 配置管理
+
+## 3.Spring Boot 静态资源
